@@ -1,12 +1,11 @@
 # Site settings
-title:
+title: Nebula Technologies
 email: nebula@nebula.gr
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+  Trusted local technology partner for laptop repair, PC maintenance, and IT solutions in Komotini.
 
-twitter_username:
-github_username:
+baseurl: "" 
+url: "https://nebula.gr"
 
 # Build settings
 markdown: kramdown
